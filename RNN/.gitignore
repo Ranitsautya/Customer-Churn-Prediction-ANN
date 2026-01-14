@@ -1,0 +1,14 @@
+# Virtual environments
+rnn311/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Model files (optional)
+*.h5
